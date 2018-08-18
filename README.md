@@ -1,3 +1,7 @@
+The project development, source code, and issues have moved to https://git.dorkbox.com/dorkbox/SystemTray
+
+---
+
 SystemTray
 ==========
 Professional, cross-platform **SystemTray** support for *Swing/AWT*, *GtkStatusIcon*, and *AppIndicator* on Java 6+.  
